@@ -103,7 +103,7 @@
           "type": "library",
           "label": "Text",
           "options": [
-            "H5P.AdvancedText 1.1"
+            "H5P.AdvancedText 1.2"
           ],
           "widget": "showWhen",
           "showWhen": {
